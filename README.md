@@ -1,7 +1,3 @@
-Sure! Here's a clean and complete `README.md` you can use for your project:
-
----
-
 ## 🚀 ESP8266 + ChatGPT Web Interface
 
 This project lets you run a simple web server on an ESP8266 board (like NodeMCU or Wemos D1 Mini) to interact with **OpenAI's ChatGPT (gpt-3.5-turbo)** via a browser. It connects over Wi-Fi, sends a question to the OpenAI API, and displays the response in a web page.
@@ -90,12 +86,3 @@ Video:
   Your browser does not support the video tag.
 </video>
 
----
-
-## 📄 License
-
-MIT License
-
----
-
-Let me know if you'd like me to format it for GitHub with syntax highlighting and assets like a `screenshot.png`.
