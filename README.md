@@ -85,6 +85,10 @@ This project lets you run a simple web server on an ESP8266 board (like NodeMCU 
 Video:
 [Watch the demo video](./esp_with_gpt_reduced.mp4)
 
+<video width="600" controls>
+  <source src="esp_with_gpt_reduced.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
