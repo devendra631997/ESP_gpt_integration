@@ -79,8 +79,12 @@ This project lets you run a simple web server on an ESP8266 board (like NodeMCU 
 
 ## 📸 Screenshot
 
-![ESP8266 ChatGPT Interface](esp_with_gpt_reduced.mp4)  
+![ESP8266 ChatGPT Interface](screenshot.png)  
 *Example UI hosted by ESP8266*
+
+Video:
+[Watch the demo video](./esp_with_gpt_reduced.mp4)
+
 
 ---
 
